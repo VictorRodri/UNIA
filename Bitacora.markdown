@@ -1,1 +1,1 @@
-Lunes, 28 de noviembre: 
+Lunes, 28 de noviembre: he estado buscando información sobre las comunidades de software libre en España, y tras un tiempo buscando, he encontrado una buena página web 'http://blog.desdelinux.net/comunidades/'. Me faltaría elaborarla en mi informe.
