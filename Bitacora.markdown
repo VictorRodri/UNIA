@@ -1,1 +1,2 @@
-Lunes, 28 de noviembre: he estado buscando información sobre las comunidades de software libre en España, y tras un tiempo buscando, he encontrado una buena página web 'http://blog.desdelinux.net/comunidades/'. Me faltaría elaborarla en mi informe.
+Lunes, 28 de noviembre: he estado buscando información en internet sobre las comunidades de software libre en España, y tras un tiempo buscando, he encontrado una buena página web 'http://blog.desdelinux.net/comunidades/'. Me faltaría elaborarla en mi informe.
+Martes, 29 de noviembre: he estado buscando información sobre qué comunidades de software libre en España realizan un congreso anual, y qué comunidades se reúnen periódicamente. De momento no he encontrado nada útil en internet.
