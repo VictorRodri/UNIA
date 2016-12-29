@@ -5,4 +5,4 @@ Jueves, 1 de diciembre: he encontrado en internet algunas páginas web útiles s
 Viernes, 2 de diciembre: con toda la información buscada en internet los días anteriores, he elaborado y finalizado mi informe.
 Lunes, 12 de diciembre: he rellenado y enviado a mi director de la OSL-UNIA Ismael Olea el cuestionario de bienvenida OSL-UNIA.
 Viernes, 23 de diciembre: he asistido a la reunión Ideas For Almería realizada en Cámara de Comercio de Almería este mismo día de 18:30 a 21:00 horas. Más detalles en la página oficial: 'http://ideasfor.es/events/andalucia/almeria/'.
-Jueves, 29 de diciembre: he realizado un resumen de la reunión de Ideas For Almería. El documento de ese resumen lo he subido en GitHub.
+Jueves, 29 de diciembre: he realizado un resumen de la reunión de Ideas For Almería. El documento de ese resumen lo he subido en GitHub. También he subido en GitHub el anterior trabajo realizado de las comunidades de software libre en España (únicamente lo mandé por Telegram a mi director Ismael, pero no lo subí en GitHub).
