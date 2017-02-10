@@ -1,3 +1,5 @@
+Año 2016.
+
 Lunes, 28 de noviembre: he estado buscando información en internet sobre las comunidades de software libre en España, y tras un tiempo buscando, he encontrado una buena página web 'http://blog.desdelinux.net/comunidades/'.
 
 Martes, 29 de noviembre: he estado buscando información sobre qué comunidades de software libre en España realizan un congreso anual, y qué comunidades se reúnen periódicamente. De momento no he encontrado nada útil en internet.
@@ -13,3 +15,7 @@ Lunes, 12 de diciembre: he rellenado y enviado a mi director de la OSL-UNIA Isma
 Viernes, 23 de diciembre: he asistido a la reunión Ideas For Almería realizada en Cámara de Comercio de Almería este mismo día de 18:30 a 21:00 horas. Más detalles en la página oficial: 'http://ideasfor.es/events/andalucia/almeria/'.
 
 Jueves, 29 de diciembre: he realizado un resumen de la reunión de Ideas For Almería. El documento de ese resumen lo he subido en GitHub. También he subido en GitHub el anterior trabajo realizado de las comunidades de software libre en España (únicamente lo mandé por Telegram a mi director Ismael, pero no lo subí en GitHub).
+
+Año 2017.
+
+Desde el 20 de enero hasta el 13 de febrero: estoy realizando la tarea mandada por Ismael Olea sobre el estudio de las herramientas software a usar en el proyecto de helióstatos de Diego Zapata. La tarea exacta está en el siguiente enlace: 'https://tree.taiga.io/project/unia-osl/task/46'.
