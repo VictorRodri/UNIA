@@ -18,4 +18,8 @@ Jueves, 29 de diciembre: he realizado un resumen de la reunión de Ideas For Alm
 
 Año 2017.
 
+Martes, 17 de enero: he asistido a la reunión Visión Artificial realizada en la Universidad de Almería y presentado por Diego Zapata Hernández. Más detalles en el GitHub de Diego: 'https://github.com/diegozahe/Taller-Python-OpenCV'.
+
 Desde el 20 de enero hasta el 13 de febrero: estoy realizando la tarea mandada por Ismael Olea sobre el estudio de las herramientas software a usar en el proyecto de helióstatos de Diego Zapata. La tarea exacta está en el siguiente enlace: 'https://tree.taiga.io/project/unia-osl/task/46'.
+
+Lunes, 13 de febrero: he realizado un resumen de la reunión Visión Artificial. El documento de ese resumen lo he subido en GitHub.
