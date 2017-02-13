@@ -22,4 +22,4 @@ Martes, 17 de enero: he asistido a la reunión Visión Artificial realizada en l
 
 Desde el 20 de enero hasta el 13 de febrero: estoy realizando la tarea mandada por Ismael Olea sobre el estudio de las herramientas software a usar en el proyecto de helióstatos de Diego Zapata. La tarea exacta está en el siguiente enlace: 'https://tree.taiga.io/project/unia-osl/task/46'.
 
-Lunes, 13 de febrero: he realizado un resumen de la reunión Visión Artificial. El documento de ese resumen lo he subido en GitHub.
+Lunes, 13 de febrero: he realizado un resumen de la reunión Visión Artificial. El documento de ese resumen lo he subido en GitHub. Además, he realizado y subido a GitHub un documento en el que se explica qué realiza y cómo funciona el código Python del proyecto de helióstatos de Diego Zapata, cumpliendo y dando así por finalizada la tarea '#46Estudio de las herramientas software a usar en el proyecto' mandada por Ismael Olea (recuérdese que esa tarea estaba en el enlace 'https://tree.taiga.io/project/unia-osl/task/46'). Procuraré, si la tarea está incompleta, completarla todavía más.
