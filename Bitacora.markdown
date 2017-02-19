@@ -8,7 +8,7 @@ Miércoles, 30 de noviembre: ídem que en el día anterior.
 
 Jueves, 1 de diciembre: he encontrado en internet algunas páginas web útiles sobre lo que quise buscar el pasado martes 29 de noviembre.
 
-Viernes, 2 de diciembre: con toda la información buscada en internet los días anteriores, he elaborado y finalizado mi informe.
+Viernes, 2 de diciembre: con toda la información buscada en internet los días anteriores, he elaborado y finalizado mi informe. En el informe he incluido información como cuáles son las comunidades de software libre actuales en España (GNU España, ASOLIF, CENATIC, Ubuntu España, Open Office, JClic, entre otras) y cuáles son las comunidades que realizan congresos anuales y que se reúnen periódicamente (LibreCon 2016, OpenExpo 2016, OpenExpo 2017, entre otras). Tras esto, he mandado mi informe finalizado por Telegram a mi director Ismael.
 
 Lunes, 12 de diciembre: he rellenado y enviado a mi director de la OSL-UNIA Ismael Olea el cuestionario de bienvenida OSL-UNIA.
 
