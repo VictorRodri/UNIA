@@ -12,7 +12,7 @@ Viernes, 2 de diciembre: con toda la información buscada en internet los días 
 
 Lunes, 12 de diciembre: he rellenado y enviado a mi director de la OSL-UNIA Ismael Olea el cuestionario de bienvenida OSL-UNIA.
 
-Viernes, 23 de diciembre: he asistido a la reunión Ideas For Almería realizada en Cámara de Comercio de Almería este mismo día de 18:30 a 21:00 horas. Más detalles en la página oficial: 'http://ideasfor.es/events/andalucia/almeria/'.
+Viernes, 23 de diciembre: he asistido a la reunión Ideas For Almería realizada en Cámara de Comercio de Almería este mismo día de 18:30 a 21:00 horas. Los objetivos de esta reunión eran: atraer más turistas a Almería, atraer turismo deportivo de invierno, bookcrossing, intervención de la participación activa de la industria y la proyección global, entre otros. Más detalles en la página oficial: 'http://ideasfor.es/events/andalucia/almeria/'.
 
 Jueves, 29 de diciembre: he realizado un resumen de la reunión de Ideas For Almería. El documento de ese resumen lo he subido en GitHub. También he subido en GitHub el anterior trabajo realizado de las comunidades de software libre en España (únicamente lo mandé por Telegram a mi director Ismael, pero no lo subí en GitHub).
 
@@ -26,4 +26,4 @@ Lunes, 13 de febrero: he realizado un resumen de la reunión Visión Artificial.
 
 Viernes, 17 de febrero: se realizó y asistí a una reunión realizada en el CIESOL de la UAL de 13 a 14:30 horas para que Diego Zapata, Luis y Vicente me hablaran del TFG que yo debía realizar, el proyecto de caracterización de helióstatos. Me dijeron que era demasiado temprano para ver ahora cuáles son los requisitos software, y que esto se vería más adelante. Y en cuanto a los acuerdos de la reunión, Diego ha estado enseñando todo su código de helióstatos a Luis, y tanto él como Vicente y yo hemos visto cómo funcionaban los distintos elementos del código, además de que todo su código funciona correctamente y que Diego ha realizado un muy buen proyecto. Y que mi tarea es familiarizarme y trabajar ese código de helióstatos de Diego Zapata y con OpenCV, de momento no me han mandado tareas más concretas.
 
-Sábado, 18 de febrero: he indicado por Taiga lo que he señalado aquí en esta bitácora sobre lo que hice el 17 de febrero. Así, mi tutor Ismael Olea tendrá en cuenta lo que se hizo en esa reunión.
+Sábado, 18 de febrero: he indicado por Taiga lo que he señalado aquí en esta bitácora sobre lo que hice el 17 de febrero. Así, mi director Ismael Olea tendrá en cuenta lo que se hizo en esa reunión.
