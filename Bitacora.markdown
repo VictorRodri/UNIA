@@ -25,5 +25,7 @@ Desde el 20 de enero hasta el 13 de febrero: estoy realizando la tarea mandada p
 Lunes, 13 de febrero: he realizado un resumen de la reunión Visión Artificial. El documento de ese resumen lo he subido en GitHub. Además, he realizado y subido a GitHub un documento en el que se explica qué realiza y cómo funciona el código Python del proyecto de helióstatos de Diego Zapata, cumpliendo y dando así por finalizada la tarea '#46Estudio de las herramientas software a usar en el proyecto' mandada por Ismael Olea (recuérdese que esa tarea estaba en el enlace 'https://tree.taiga.io/project/unia-osl/task/46'). Procuraré, si la tarea está incompleta, completarla todavía más.
 
 Viernes, 17 de febrero: se realizó y asistí a una reunión realizada en el CIESOL de la UAL de 13 a 14:30 horas para que Diego Zapata, Luis y Vicente me hablaran del TFG que yo debía realizar, el proyecto de caracterización de helióstatos.
+
 Me dijeron que era demasiado temprano para ver ahora cuáles son los requisitos software, y que esto se vería más adelante.
+
 Y en cuanto a los acuerdos de la reunión, Diego ha estado enseñando todo su código de helióstatos a Luis, y tanto él como Vicente y yo hemos visto cómo funcionaban los distintos elementos del código, además de que todo su código funciona correctamente y que Diego ha realizado un muy buen proyecto. Y que mi tarea es familiarizarme y trabajar ese código de helióstatos de Diego Zapata y con OpenCV, de momento no me han mandado tareas más concretas.
